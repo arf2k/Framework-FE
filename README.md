@@ -4,5 +4,7 @@ A virtual art museum designed to simulate the experience of browsing galleries.
 -      Displayed organized artworks and descriptions through the Harvard Art Museum API.
 -      Tailored API results to allow dynamic searching and to plot the mapping structure.
 
-[![FrameworkThumbnail](http://img.youtube.com/vi/JKsK0gmrFC0/0.jpg)](http://www.youtube.com/watch?v=JKsK0gmrFC0)
+
+Video Demo:
+<br> [![FrameworkThumbnail](http://img.youtube.com/vi/JKsK0gmrFC0/0.jpg)](http://www.youtube.com/watch?v=JKsK0gmrFC0) </br>
 
