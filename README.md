@@ -1,5 +1,6 @@
 A virtual art museum designed to simulate the experience of browsing galleries.
--      Used Image Mapper in React to create dynamic gallery navigation and to simulate the act of walking through, curating, and commenting upon one’s own gallery.
+-      Used Image Mapper in React to create dynamic gallery navigation and to simulate the act of walking 
+       through, curating, and commenting upon one’s own gallery.
 -      Displayed organized artworks and descriptions through the Harvard Art Museum API.
 -      Tailored API results to allow dynamic searching and to plot the mapping structure.
 
